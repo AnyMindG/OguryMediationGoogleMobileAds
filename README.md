@@ -1,0 +1,2 @@
+# OguryMediationGoogleMobileAds
+OguryMediationGoogleMobileAds
